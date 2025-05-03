@@ -1,0 +1,38 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "learning react",
+  "scripts": {
+    "start": "parcel indez.html",
+    "build": "parcel build indez.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Puneet2206/Javascript.git"
+  },
+  "keywords": [
+    "react",
+    "namaste",
+    "react",
+    "puneet"
+  ],
+  "author": "puneet chumber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Puneet2206/Javascript/issues"
+  },
+  "homepage": "https://github.com/Puneet2206/Javascript#readme",
+  "devDependencies": {
+    "@parcel/core": "^2.14.4",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router": "^7.5.1"
+  },
+  "browsersList": [
+    "Last 2 version"
+  ]
+}
